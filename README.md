@@ -12,3 +12,5 @@ The Matthew's Store wants to create an annual report for 2024, So that, The owne
 4️⃣ Which are the top 5 states contributing to sales?
 5️⃣ Which sales channel performed best?
 6️⃣ What’s the relationship between age, gender, and number of orders?
+
+- Dashboard Interaction <a href = "https://github.com/Himanshujoshi16/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-14%20140356.png">View dashboard<a/>
