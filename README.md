@@ -14,3 +14,7 @@ The Matthew's Store wants to create an annual report for 2024, So that, The owne
 6️⃣ What’s the relationship between age, gender, and number of orders?
 
 - Dashboard Interaction <a href = "https://github.com/Himanshujoshi16/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-14%20140356.png">View dashboard<a/>
+
+## Dashboard
+![Screenshot 2025-02-14 140356](https://github.com/user-attachments/assets/55e3491d-65b4-4a6c-b2af-502cd9cc9d76)
+
