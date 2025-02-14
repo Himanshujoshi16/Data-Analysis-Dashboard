@@ -18,3 +18,13 @@ The Matthew's Store wants to create an annual report for 2024, So that, The owne
 ## Dashboard
 ![Screenshot 2025-02-14 140356](https://github.com/user-attachments/assets/55e3491d-65b4-4a6c-b2af-502cd9cc9d76)
 
+## Key Insights Uncovered:
+✔️ Women contributed ~65% of total purchases 🛍️
+✔️ Maharashtra, Karnataka, and Uttar Pradesh were the top 3 sales-driving states
+✔️ Adults (30-49 years) were the largest purchasing group 👥
+✔️ Amazon, Myntra, and Flipkart were the top-performing sales channels
+
+## Final Strategy to Improve Sales in 2025:
+✅ Target women (30-49 years old) in Maharashtra, Karnataka, and Uttar Pradesh
+✅ Leverage Amazon, Flipkart, and Myntra for promotions
+✅ Use ads, offers, and coupons to increase conversions
